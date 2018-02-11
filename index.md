@@ -1,6 +1,6 @@
 # *The Resource Line* Archive (1999-2003)
 
-*The Resource Line* was a monthly newsletter produced by the Cedar Rapids Gay and Lesbian Resource Center ("The GLRC") in Cedar Rapids, Iowa. Publication of the Resource Line began some time before 1999 (1993?), and continued until at least 2003. Initially, the GLRC distributed paper copies of *The Resource Line* by mail to its subscribers, and in literature racks at local businesses. In later years, *The Resource Line* was also available for download on the GLRC's web site (which could be found at www.crglrc.org from 1999 until August 2010, when the domain registration expired).
+*The Resource Line* was a monthly newsletter produced by the Cedar Rapids Gay and Lesbian Resource Center ("The GLRC") in Cedar Rapids, Iowa, from about 1993 until at least 2003. Initially, the GLRC distributed paper copies of *The Resource Line* by mail to its subscribers and in literature racks at local businesses. In later years, *The Resource Line* was also available for download on the GLRC's web site (which could be found at www.crglrc.org from 1999 until August 2010, when the domain registration expired).
 
 ## 1999
 * [August 1999](1999/resource-line-1999-08.pdf)
